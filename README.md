@@ -6,8 +6,13 @@ While this document will provide a very basic introduction, these basics can eas
 
 ## Prerequisites
 - Create a github account
-- Install git on your local Linux system (yum install git)
+  - If you made it this far, you probably already have an account
+  - If not, go here --> https://github.com/join?source=header-home
+- Install git on your local Linux system
+  - ```yum install git```
 - Choose your favorite text editor
+  - Atom is a good, multi-platform choice, with git integration
+  - https://atom.io/
 
 ## Tutorial
 - Setup 2-factor authentication
