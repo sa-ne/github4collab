@@ -16,7 +16,11 @@ While this document will provide a very basic introduction, these basics can eas
 
 ## Tutorial
 - Setup 2-factor authentication
+  - Under Settings, Security
 - Setup your SSH public key in GitHub
+  - Under Settings, SSH and GPG keys
+  - Create a new key and copy your **public** key
+  - ```cat ~/.ssh/id_rsa.pub```
 - Fork this repository in GitHub to your account
 - Clone it to your system
 - Make a change by adding your GitHub account name to the list of people that have reviewed this
