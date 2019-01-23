@@ -45,7 +45,9 @@ While this document will provide a very basic introduction, these basics can eas
   - ```git push``` Again if you setup SSH keys correctly this should not ask for user/password
   - You should now see your changes in your Github Account/github4collab repository
 - Send a pull request to this repository so your change gets included
-  - Now let's send these changes to sa-ne so all can see!
+  - Now let's send these changes to sa-ne so all can see and enjoy!
+  - Click New pull request, review the validation page for merging, enter comments, click Submit
+  - An owner/reviewer of sa-ne/github4collab can then accept the pull request
 - Pull these changes into your repository so you have the complete list of all reviewers
 
 ## Reviewers
